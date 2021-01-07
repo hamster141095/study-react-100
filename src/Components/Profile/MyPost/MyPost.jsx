@@ -15,7 +15,7 @@ const MyPost = () => {
     };
 
   const onFinishFailed = (errorInfo) => {
-    console.log('Failed:', errorInfo);
+    console.log('Failed:1', errorInfo);
   };
 
   return (
