@@ -1,0 +1,15 @@
+.ProfileWrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.ProfileInfo{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    max-width: 500px;
+    align-items:top;
+    margin-top: 20px;
+}
